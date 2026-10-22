@@ -1,0 +1,7 @@
+url: https://github.com/NewSpringWei/dsh-subagent-opencode
+name: NewSpringWei/dsh-subagent-opencode
+category: tools
+tarball: https://github.com/NewSpringWei/dsh-subagent-opencode/releases/download/v0.1.0/dsh-subagent-opencode-0.1.0.tgz
+description:
+  en: 'OpenCode subagent for DeepSeek Harness. Delegates a self-contained task to a local or remote OpenCode instance over ACP and returns only the final answer; targets can be added, edited, tested, and removed from the Plugins page or through the opencode_targets tool.'
+  zh: 'DeepSeek Harness 的 OpenCode 子智能体插件。通过 ACP 把任务委派给本机或远端的 OpenCode，只返回最终结果；目标可在插件页或 opencode_targets 工具中增删改查与测试。'
